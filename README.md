@@ -1,7 +1,4 @@
-# canterbury-nzdep-spatial-analysis
-Spatial analysis of deprivation in Canterbury using NZDep2018 and meshblock data
-
-# Topic: Spatial Analysis of Deprivation and Public Transport Accessibility in Canterbury, New Zealand
+# Spatial Analysis of Deprivation and Public Transport Accessibility in Canterbury, New Zealand
 
 This project explores the relationship between area-level deprivation (using NZDep2018 and meshblock data) and public transport accessibility in the Canterbury region. 
 
