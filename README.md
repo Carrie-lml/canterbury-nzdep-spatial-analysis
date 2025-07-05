@@ -28,7 +28,7 @@ Policy Relevance: Highlights priority areas for transport intervention and suppo
 - README.md: Project overview and instructions
 
 # License and Attribution
-The NZDep2023 index and associated data are licensed under the Creative Commons Attribution 4.0 International Licence (CC BY 4.0). You are free to copy, distribute, and adapt the material, provided that appropriate credit is given to the University of Otago and you comply with the terms of the licence.
-Attribution: University of Otago
+- The NZDep2023 index and associated data are licensed under the Creative Commons Attribution 4.0 International Licence (CC BY 4.0). You are free to copy, distribute, and adapt the material, provided that appropriate credit is given to the University of Otago and you comply with the terms of the licence.
+- Attribution: University of Otago
 
 
