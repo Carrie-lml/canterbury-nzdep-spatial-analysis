@@ -1,4 +1,4 @@
-# canterbury-nzdep-spatial-analysis
+# christchurch-nzdep-spatial-analysis
 Spatial analysis of deprivation in Christchrch using NZDep2023, meshblock data and Christchurch Transport data.
 
 # Topic: Spatial Analysis of Deprivation and Public Transport Accessibility in Christchurch
@@ -34,6 +34,10 @@ Bus Shelter (OpenData)
 - DP Key Activity Centre (OpenData)
 Geographic boundaries of key activity centres as defined in the District Plan, provided by Christchurch City Council.
 DP Key Activity Centre (OpenData)
+
+- Meshblock 2023 Boundaries (Stats NZ)
+Digital geographic boundaries for all meshblocks in New Zealand as at 1 January 2023. Meshblocks are the smallest geographic unit used by Stats NZ and are essential for joining deprivation data to spatial boundaries.
+Dataset: statsnz-meshblock-2023-generalised-SHP (downloaded from Stats NZ Geographic Data Service).
 
 
 # Project Structure
